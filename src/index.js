@@ -19,7 +19,7 @@ const dockerHub = "https://registry-1.docker.io";
 
 const routes = {
   // production
-  "docker.bigood.ink": dockerHub,
+  "dockerr.bigood.ink": dockerHub,
   "quay.bigood.ink": "https://quay.io",
   "gcr.bigood.ink": "https://gcr.io",
   "k8s-gcr.bigood.ink": "https://k8s.gcr.io",

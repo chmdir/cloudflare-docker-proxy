@@ -17,7 +17,7 @@ CUSTOM_DOMAIN = "exmaple.com"
 [env.production]
 name = "cloudflare-docker-proxy"
 # routes = [
-#   { pattern = "dockerr.bigood.ink", custom_domain = true },
+#   { pattern = "docker.bigood.ink", custom_domain = true },
 #   { pattern = "quay.bigood.ink", custom_domain = true },
 #   { pattern = "gcr.bigood.ink", custom_domain = true },
 #   { pattern = "k8s-gcr.bigood.ink", custom_domain = true },
